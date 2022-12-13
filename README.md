@@ -4,7 +4,13 @@ This logseq-plugin is used to generate a serial of Sentenses for writting. Someo
 
 This plugin is used to generate a serial of Sentenses for writting. 
 
-(pictures is coming soon )
+- Press hot-keys to generate content.
+![](./logseq-sengener/lgoseq1.gif)
+
+- Switch to selected-search mode, select text to full-text serach.
+
+![](./logseq-sengener/lgoseq2.gif)
+
 
 ## How to use this plugin
 
