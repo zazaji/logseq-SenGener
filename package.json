@@ -1,0 +1,29 @@
+{
+  "name": "logseq-plugin-sengener",
+  "version": "0.0.1",
+  "description": "A joyful translator for block text",
+  "author": "©Charlie",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel ./index.html",
+    "build": "parcel build --public-url . --no-source-maps index.html"
+  },
+  "devDependencies": {
+    "@logseq/libs": "^0.0.10",
+    "@types/node": "^18.11.9",
+    "@types/react": "^18.0.25",
+    "@types/react-dom": "^18.0.9",
+    "@vitejs/plugin-react": "^2.2.0",
+    "parcel": "^2.0.0"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "google-translate-api-browser": "^1.1.71"
+  },
+  "logseq": {
+    "main": "dist/index.html",
+    "icon": "./logo.png",
+    "id": "_ifb2iwsl4"
+  }
+}
