@@ -10,7 +10,6 @@ This plugin is used to generate a serial of Sentenses for writting.
 - Switch to selected-search mode, select text to full-text serach.
 
 ![](./images/lgoseq2.gif)
-images/lgoseq2.gif
 
 
 ## How to use this plugin
